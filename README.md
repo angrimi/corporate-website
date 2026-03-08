@@ -43,13 +43,12 @@ IT·기술 분야 10개 이상 실제 기업 웹사이트 분석 후 핵심 UX/U
 
 | Before | After |
 |--------|-------|
-| ![](./images/before1.png) | ![](./images/after1.gif) |
-| ![](./images/before2.png) | ![](./images/after2.gif) |
-| ![](./images/before3.png) | ![](./images/after3.png) |
-| ![](./images/before4.png) | ![](./images/after4.png) |
-                            | | ![](./images/after5.png) |
-                            | | ![](./images/after6.png) |
-
+| ![](./before.png) | ![](./after.gif) |
+| ![](./before2.png) | ![](./after2.gif) |
+| ![](./before3.png) | ![](./after3.png) |
+| ![](./before4.png) | ![](./after4.png) |
+| | ![](./after5.png) |
+| | ![](./after6.png) |
 ---
 
 ## 🖐🏻 역할 및 구현
